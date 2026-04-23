@@ -31,4 +31,3 @@ python assignment.py
 ## Results
 - 95%+ accuracy on MNIST test set
 - Trained using custom Adam optimizer and gradient tape
-```
